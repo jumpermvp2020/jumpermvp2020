@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=BEF264)](https://resumeboo.jsband.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=BEF264)](https://ivanb.tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BEF264)](https://github.com/jumpermvp2020)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BEF264)](mailto:iskyi48@yandex.ru)
 
@@ -72,7 +72,7 @@ I help teams adopt AI: implementation, training, and automation in daily deliver
 
 <div align="center">
 
-[![Full resume](https://img.shields.io/badge/Full_resume-resumeboo.jsband.org-65A30D?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ivanb.tech/)
+[![Full resume](https://img.shields.io/badge/Full_resume-ivanb.tech-65A30D?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ivanb.tech/)
 
 </div>
 
