@@ -72,7 +72,7 @@ I help teams adopt AI: implementation, training, and automation in daily deliver
 
 <div align="center">
 
-[![Full resume](https://img.shields.io/badge/Full_resume-resumeboo.jsband.org-65A30D?style=for-the-badge&logo=readthedocs&logoColor=white)](https://resumeboo.jsband.org/)
+[![Full resume](https://img.shields.io/badge/Full_resume-resumeboo.jsband.org-65A30D?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ivanb.tech/)
 
 </div>
 
